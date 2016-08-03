@@ -1,7 +1,37 @@
-h1 {
-  color: red;
+h2 {
+  color: darkcyan;
+}
+img {
+  height: 300px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
+li {
+  text-align: center;
+  font-size:1.5em;
+  background-color: pink;
+}
+
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+
+}
+
+p {
+  color:darkcyan;
+}
+
+/*Class Rules*/
+
 .flashy {
-  color: red;
+  color: darkred;
+}
+
+.best {
+  height: 50%;
+  width: 50%;
 }
